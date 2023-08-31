@@ -23,7 +23,7 @@ The full list of supported languages (along with download links) can be found he
 
 ## Speech results
 <p align="center">
-  <img src="materials/sonar_langs.jpg" width="400"><br />
+  <img src="materials/sonar_langs.png" width="400"><br />
 </p>
 
 
@@ -209,7 +209,7 @@ Please cite the paper when referencing the SONAR embedding space, encoders and d
   title = {{SONAR:} Sentence-Level Multimodal and Language-Agnostic Representations},
   publisher = {arXiv},
   year = {2023},
-  url = {https://arxiv.org/abs/unk},
+  url = {https://arxiv.org/abs/2308.11466},
 }
 ```
 
